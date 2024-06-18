@@ -6,6 +6,6 @@ public class Main {
 //     RWOnly.name = "Vaibhav";
 //     System.out.println(RWOnly.name);
         rwOnly.setName("Vaibhav");
-        System.out.println(rwOnly.setName());
+        System.out.println(rwOnly.getName());
     }
 }
